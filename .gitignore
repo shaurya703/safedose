@@ -1,0 +1,16 @@
+.claude/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+*.db
+pgdata/
+*.tsbuildinfo

@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700;800&family=Source+Sans+3:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Source Sans 3", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Lexend", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #0e7490;       /* trustworthy teal */
+  --color-primary-dark: #155e75;
+  --color-ink: #0f172a;
+}
+
+html { -webkit-tap-highlight-color: transparent; }
+body { color: var(--color-ink); }
+h1, h2, h3 { font-family: var(--font-display); }
+button { cursor: pointer; }
