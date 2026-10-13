@@ -1,5 +1,7 @@
 # SafeDose
 
+[![CI](https://github.com/shaurya703/safedose/actions/workflows/ci.yml/badge.svg)](https://github.com/shaurya703/safedose/actions/workflows/ci.yml)
+
 **Check whether your medicine's batch has been flagged as substandard or spurious by India's drug regulator — in seconds, from data that's otherwise buried in PDFs.**
 
 Every month, the Central Drugs Standard Control Organisation (CDSCO) tests samples of medicines sold in India and publishes a **"Not of Standard Quality" (NSQ) alert** — a list of specific drug *batches* found substandard, contaminated, mislabelled, or outright **spurious (counterfeit)**. In a single recent month, 70 batches were flagged, from antibiotics to anaesthetics.
